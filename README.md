@@ -74,3 +74,10 @@ cifar10_resnet18.pth
 - task2_deep_learning.ipynb - Training and evaluation notebook
 - cifar10_resnet18.pth - Saved trained model
 - README.md - Setup and execution instructions
+## Model Download
+
+The trained model file is available on Google Drive:
+
+https://drive.google.com/file/d/1VhWuh3O9_XTJhpo4pBme5iPtvDAwcn6P/view?usp=sharing
+
+Download `cifar10_resnet18.pth` before running inference.
